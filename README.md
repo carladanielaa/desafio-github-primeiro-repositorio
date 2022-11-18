@@ -7,14 +7,14 @@ Orientações:
 1.Instalar o Git e o GitHub
 2.Criar um Repositorio
 3.Clona o repositorio que criou
-4. Abri no VScode
-
-#No VScode
-1.Extrai tudo e abri no VScode
-2.fazer as Projeto que quiser
+4.Abri no Git
 
 #No Git
-1.commita
-2.da um Push (para suber para o seu gitHub)
+1.clona repositorio
+2.Abri no VScode
 
+#No VScode
+1.trabalhar o seu repositorio
+2.commita
+3.da um push (para mandar o seu repositorio para o GitHub)
 
