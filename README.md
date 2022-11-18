@@ -2,7 +2,7 @@
 Desafio de Projeto sobre Git/GitHub
 
 Orientações:
-# No GitHub
+# GitHub
 
 1.Instalar o Git e o GitHub
 2.Criar um Repositorio
